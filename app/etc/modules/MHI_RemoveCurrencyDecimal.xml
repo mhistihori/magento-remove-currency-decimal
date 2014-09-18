@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MHI_RemoveCurrencyDecimal>
+            <active>true</active>
+            <codePool>community</codePool>
+        </MHI_RemoveCurrencyDecimal>
+    </modules>
+</config>
